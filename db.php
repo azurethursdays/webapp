@@ -1,5 +1,5 @@
 <?php
 
-$conn = new PDO("mysql:host=localhost;dbname=feedback_form", 'root', '');
+$conn = new PDO("mysql:host=rctdemo.database.windows.net;dbname=feedback_form", 'schema', 'Morolong1993');
 
 ?>
